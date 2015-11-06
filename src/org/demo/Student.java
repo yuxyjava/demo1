@@ -8,7 +8,7 @@ public class Student {
 	
 	private String className;
 	
-	
+	private int age;
 
 	public String getClassName() {
 		return className;
