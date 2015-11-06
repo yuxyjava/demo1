@@ -5,6 +5,18 @@ public class Student {
 	private int id;
 	
 	private String userName;
+	
+	private String className;
+	
+	
+
+	public String getClassName() {
+		return className;
+	}
+
+	public void setClassName(String className) {
+		this.className = className;
+	}
 
 	public int getId() {
 		return id;
